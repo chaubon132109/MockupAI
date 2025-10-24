@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Try-On Batch Creator",
+  "description": "An AI-powered application to automatically apply outfits to models in batches. Users can process one model with multiple outfits, multiple models with one outfit, perform general image editing with text prompts, or generate new images from scratch.",
+  "requestFramePermissions": []
+}
